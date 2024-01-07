@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Hydrogen",
+        "shortcut": "H",
+        "description": "Lightest element",
+        "mass": 1.008,
+        "main_purpose": "Fuel for rockets, production of ammonia and hydrogenation",
+        "color": "#FFFFFF",
+        "background_color": "#000000",
+        "fun_fact": "Hydrogen is the most abundant element in the universe."
+    },
+    {
+        "name": "Helium",
+        "shortcut": "He",
+        "description": "Inert gas",
+        "mass": 4.0026,
+        "main_purpose": "Used in balloons, cooling, and as a cryogenic agent",
+        "color": "#FFC0CB",
+        "background_color": "#000000",
+        "fun_fact": "Helium is the second lightest and second most abundant element in the universe."
+    },
+    {
+        "name": "Lithium",
+        "shortcut": "Li",
+        "description": "Lightweight metal",
+        "mass": 6.94,
+        "main_purpose": "Batteries, ceramics, and treatment for bipolar disorder",
+        "color": "#BEBEBE",
+        "background_color": "#000000",
+        "fun_fact": "Lithium is the lightest metal and has the highest electrochemical potential."
+    },
+    {
+        "name": "Beryllium",
+        "shortcut": "Be",
+        "description": "Light and strong metal",
+        "mass": 9.0122,
+        "main_purpose": "Used in aerospace, nuclear reactors, and X-ray windows",
+        "color": "#D9D9D9",
+        "background_color": "#000000",
+        "fun_fact": "Beryllium is an element that exhibits both metallic and nonmetallic properties."
+    },
+    {
+        "name": "Boron",
+        "shortcut": "B",
+        "description": "Nonmetallic element",
+        "mass": 10.81,
+        "main_purpose": "Used in glassmaking, semiconductors, and flame retardants",
+        "color": "#7FFF00",
+        "background_color": "#000000",
+        "fun_fact": "Boron is an essential micronutrient for plants and plays a role in cell wall structure."
+    },
+    {
+        "name": "Carbon",
+        "shortcut": "C",
+        "description": "Versatile element",
+        "mass": 12.01,
+        "main_purpose": "Building blocks of life, fuels, and materials like diamonds",
+        "color": "#000000",
+        "background_color": "#FFFFFF",
+        "fun_fact": "Carbon is the element that forms the basis of organic chemistry and is present in all living things."
+    },
+    {
+        "name": "Nitrogen",
+        "shortcut": "N",
+        "description": "Inert gas",
+        "mass": 14.01,
+        "main_purpose": "Used in fertilizers, food preservation, and air conditioning",
+        "color": "#0000FF",
+        "background_color": "#FFFFFF",
+        "fun_fact": "Nitrogen gas makes up about 78% of Earth's atmosphere and is crucial for life on Earth."
+    },
+    {
+        "name": "Oxygen",
+        "shortcut": "O",
+        "description": "Reactive gas",
+        "mass": 16.00,
+        "main_purpose": "Supports respiration, fuels combustion, and used in medical therapies",
+        "color": "#FF0000",
+        "background_color": "#FFFFFF",
+        "fun_fact": "Oxygen is the third most abundant element in the universe and is essential for sustaining life."
+    },
+    {
+        "name": "Fluorine",
+        "shortcut": "F",
+        "description": "Highly reactive gas",
+        "mass": 19.00,
+        "main_purpose": "Used in toothpaste, nonstick coatings, and as a refrigerant",
+        "color": "#FFFFE0",
+        "background_color": "#000000",
+        "fun_fact": "Fluorine is the most electronegative and reactive element on the periodic table."
+    },
+    {
+        "name": "Neon",
+        "shortcut": "Ne",
+        "description": "Inert gas",
+        "mass": 20.18,
+        "main_purpose": "Used in neon signs, lighting, and cryogenic refrigeration",
+        "color": "#FFA500",
+        "background_color": "#000000",
+        "fun_fact": "Neon is known for its distinct bright orange-red glow when used in illuminated signs."
+    }
+]
